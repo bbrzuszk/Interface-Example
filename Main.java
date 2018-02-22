@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("Num Gallons: " + room.getNumGallons());
         System.out.println("Cost: " + room.getProjectCost());
+        System.out.println("This is amazing");
 
     }
 }
